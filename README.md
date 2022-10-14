@@ -1,1 +1,1 @@
-![snake gif](https://raw.githubusercontent.com/ankitwasankar/ankitwasankar/9712a4764f04392d2cba2440c2747987f8274e89/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ankitwasankar/ankitwasankar/a787eb952ef7265d2a93ead00bc1c765b67ac237/github-contribution-grid-snake.svg)
