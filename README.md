@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Ankit Wasankar, A developer from <b>Pune, India.</b> <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/></p>
+
 <h3>Things I work with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=flat-square&logo=oracle&logoColor=white" />
@@ -72,8 +73,8 @@
     </tr>
   </tbody>
 </table>
-
-<h3>My YouTube Channel <a href="https://www.youtube.com/@webencyclop">@webencyclop</a></h3>
+<br/>
+<h3>YouTube Channel <a href="https://www.youtube.com/@webencyclop">@webencyclop</a></h3>
 
 <span>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-oafFAPgLao
@@ -99,7 +100,7 @@ alt="How Hashmap works in Java" width="180" /></a>
 alt="How Hashmap works in Java" width="180" /></a>
 </span>
 
-<h3>My latest posts</h3>
+<h3>latest posts</h3>
 
 <table>
 	<tr>
