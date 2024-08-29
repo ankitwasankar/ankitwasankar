@@ -43,7 +43,7 @@
   
 </p>
 <h3>Open source projects</h3>
-<table cellspacing="0" cellpadding="0" style="border: none">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -73,7 +73,7 @@
     </tr>
   </tbody>
 </table>
-<br/>
+
 <h3>YouTube Channel <a href="https://www.youtube.com/@webencyclop">@webencyclop</a></h3>
 
 <span>
