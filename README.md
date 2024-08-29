@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ankit Wasankar, A developer from <b>Pune, India.</b> <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/> | <a href="https://www.linkedin.com/in/ankitwasankar/">Click here to check my LinkedIn</a></p>
+<p>Welcome to my page! </br> I'm Ankit Wasankar, A developer from <b>Pune, India.</b> <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/> | Click to check <a href="https://www.linkedin.com/in/ankitwasankar/">LinkedIn</a></p>
 <h3>Things I work with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=flat-square&logo=oracle&logoColor=white" />
