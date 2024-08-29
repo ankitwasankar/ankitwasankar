@@ -1,4 +1,3 @@
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
@@ -29,7 +28,7 @@
   <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  
   <img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
-  <img alt="HTML 5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="HTML 5" src="https://img.shields.io/badge/-HTML%20-%205-E34F26?style=flat-square&logo=html5&logoColor=white" />
   
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
