@@ -84,19 +84,19 @@
 " target="_blank"><img src="http://img.youtube.com/vi/-oafFAPgLao/0.jpg" 
 alt="How Hashmap works in Java" width="180" /></a>
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=CpVALR9HeTE
 " target="_blank"><img src="http://img.youtube.com/vi/CpVALR9HeTE/0.jpg" 
 alt="How Hashmap works in Java" width="180" /></a>
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TXV0_JhP8pY
 " target="_blank"><img src="http://img.youtube.com/vi/TXV0_JhP8pY/0.jpg" 
 alt="How Hashmap works in Java" width="180" /></a>
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LNNXQo5dIYA
 " target="_blank"><img src="http://img.youtube.com/vi/LNNXQo5dIYA/0.jpg" 
