@@ -2,7 +2,6 @@
 
 
 <p>Welcome to my page! </br> I'm Ankit Wasankar, A developer from <b>Pune, India.</b> <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/></p>
-
 <h3>Things I work with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=flat-square&logo=oracle&logoColor=white" />
@@ -50,6 +49,7 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
+	  <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -58,23 +58,26 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ankitwasankar/mftool-java?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ankitwasankar/mftool-java?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ankitwasankar/mftool-java?style=flat-square&labelColor=343b41"/></td>
+	  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ankitwasankar/mftool-java?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/ankitwasankar/Fuzzy-keyword-search-over-encrypted-data-in-cloud-computing"><b>Fuzzy Keyword Search Over Encrypted Data In Cloud</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ankitwasankar/Fuzzy-keyword-search-over-encrypted-data-in-cloud-computing?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ankitwasankar/Fuzzy-keyword-search-over-encrypted-data-in-cloud-computing?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ankitwasankar/Fuzzy-keyword-search-over-encrypted-data-in-cloud-computing?style=flat-square&labelColor=343b41"/></td>
+	  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ankitwasankar/Fuzzy-keyword-search-over-encrypted-data-in-cloud-computing?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/ankitwasankar/Save-To-Google-Drive"><b>Save Files Directly To Google Drive</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ankitwasankar/Save-To-Google-Drive?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ankitwasankar/Save-To-Google-Drive?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ankitwasankar/Save-To-Google-Drive?style=flat-square&labelColor=343b41"/></td>
+	  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ankitwasankar/Save-To-Google-Drive?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
-<h3>YouTube Channel <a href="https://www.youtube.com/@webencyclop">@webencyclop</a></h3>
+<h3>My YouTube Channel <a href="https://www.youtube.com/@webencyclop">@webencyclop</a></h3>
 
 <span>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-oafFAPgLao
@@ -100,7 +103,7 @@ alt="How Hashmap works in Java" width="180" /></a>
 alt="How Hashmap works in Java" width="180" /></a>
 </span>
 
-<h3>latest posts</h3>
+<h3>My latest posts</h3>
 
 <table>
 	<tr>
