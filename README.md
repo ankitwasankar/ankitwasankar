@@ -28,15 +28,15 @@
   
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-509EE3?style=flat-square&logo=apachemaven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-509EE3?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJS-74baf7?style=flat-square&logo=Node.js&logoColor=white" />  
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-74baf7?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-74baf7?style=flat-square&logo=amazon-rds&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-74baf7?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-74baf7?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-74baf7?style=flat-square&logo=LeetCode&logoColor=white" />
-  <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-74baf7?style=flat-square&logo=datadog&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-74baf7?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Powershell" src="https://img.shields.io/badge/-powershell-74baf7?style=flat-square&logo=powershell&logoColor=white" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJS-509EE3?style=flat-square&logo=Node.js&logoColor=white" />  
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-509EE3?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-509EE3?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-509EE3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-509EE3?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-509EE3?style=flat-square&logo=LeetCode&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-509EE3?style=flat-square&logo=datadog&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-509EE3?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/-powershell-509EE3?style=flat-square&logo=tmux&logoColor=white" />
 
   
 </p>
