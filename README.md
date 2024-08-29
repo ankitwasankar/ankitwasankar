@@ -19,7 +19,8 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-2088FF?style=flat-square&logo=gitlab&logoColor=white" />
   
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-CB3837?style=flat-square&logo=debian&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-E34F26?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-43853d?style=flat-square&logo=apachemaven&logoColor=white" />
   
@@ -32,6 +33,9 @@
   
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
 
   
 </p>
