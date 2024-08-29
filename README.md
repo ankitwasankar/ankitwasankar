@@ -43,7 +43,7 @@
   
 </p>
 <h3>Open source projects</h3>
-<table>
+<table cellspacing="0" cellpadding="0" style="border: none">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
