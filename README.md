@@ -32,10 +32,10 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1746d4?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-346ac7?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-1746d4?style=flat-square&logo=burpsuite&logoColor=white" />
   <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-2899eb?style=flat-square&logo=LeetCode&logoColor=white" />
-  <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-632CA6?style=flat-square&logo=datadog&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F2F4F9?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-1746d4?style=flat-square&logo=datadog&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-509EE3?style=flat-square&logo=grafana&logoColor=white" />
 
   
 </p>
