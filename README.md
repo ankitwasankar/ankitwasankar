@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ankit, Fullstack developer from <b>Pune, India.</b> <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/></p>
+<p>Welcome to my page! </br> I'm Ankit Wasankar, A developer from <b>Pune, India.</b> <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/></p>
 <h3>Things I work with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=flat-square&logo=oracle&logoColor=white" />
@@ -11,7 +11,7 @@
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-DD0031?style=flat-square&logo=Hibernate&logoColor=white" />
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-ea2845?style=flat-square&logo=dbeaver&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-1a73e8?style=flat-square&logo=azure&logoColor=white" />
+  <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-1a73e8?style=flat-square&logo=iCloud&logoColor=white" />
   
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -26,6 +26,12 @@
   <img alt="Intellij" src="https://img.shields.io/badge/-Intellij%20Idea-FB542B?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  
+  <img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img alt="HTML 5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  
 </p>
 <h3>Open source projects</h3>
 <table>
