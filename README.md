@@ -5,37 +5,38 @@
 <h3>Things I work with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-13a3f0?style=flat-square&logo=springboot&logoColor=white" /> 
-  <img alt="JUnit" src="https://img.shields.io/badge/junit-0485c9?style=flat-square&logo=junit5&logoColor=white" /> 
-  <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-04a8c9?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-04bfc9?style=flat-square&logo=Hibernate&logoColor=white" />
-  <img alt="Databases" src="https://img.shields.io/badge/-Databases-07e4f0?style=flat-square&logo=dbeaver&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-1a73e8?style=flat-square&logo=iCloud&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=flat-square&logo=springboot&logoColor=white" /> 
+  <img alt="JUnit" src="https://img.shields.io/badge/junit-2088FF?style=flat-square&logo=junit5&logoColor=white" /> 
+  <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-2088FF?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-2088FF?style=flat-square&logo=Hibernate&logoColor=white" />
+  <img alt="Databases" src="https://img.shields.io/badge/-Databases-2088FF?style=flat-square&logo=dbeaver&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-2088FF?style=flat-square&logo=iCloud&logoColor=white" />
   
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2088FF?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-509EE3?style=flat-square&logo=graphql&logoColor=white" />
   
-  <img alt="Git" src="https://img.shields.io/badge/-Git-f57184?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-f571bc?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-509EE3?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-509EE3?style=flat-square&logo=gitlab&logoColor=white" />
   
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-cc6292?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-a31579?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-E34F26?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Intellij" src="https://img.shields.io/badge/-Intellij%20Idea-FB542B?style=flat-square&logo=intellij-idea&logoColor=white" />
-   <img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-509EE3?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-509EE3?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-509EE3?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Intellij" src="https://img.shields.io/badge/-Intellij%20Idea-509EE3?style=flat-square&logo=intellij-idea&logoColor=white" />
+   <img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-509EE3?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-509EE3?style=flat-square&logo=Cloudflare&logoColor=white" />
   
-  <img alt="Maven" src="https://img.shields.io/badge/-Maven-43853d?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1746d4?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-1746d4?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-2899eb?style=flat-square&logo=LeetCode&logoColor=white" />
-  <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-1746d4?style=flat-square&logo=datadog&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-509EE3?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-509EE3?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-509EE3?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJS-74baf7?style=flat-square&logo=Node.js&logoColor=white" />  
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-74baf7?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-74baf7?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-74baf7?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Burpsuit" src="https://img.shields.io/badge/-burpsuite-74baf7?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-74baf7?style=flat-square&logo=LeetCode&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-74baf7?style=flat-square&logo=datadog&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-74baf7?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/-powershell-74baf7?style=flat-square&logo=powershell&logoColor=white" />
 
   
 </p>
