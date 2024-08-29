@@ -103,7 +103,7 @@ alt="How Hashmap works in Java" width="180" /></a>
 alt="How Hashmap works in Java" width="180" /></a>
 </span>
 
-<h3>My latest posts</h3>
+<h3>My latest posts <a href="https://medium.com/@ankitwasankar">@ankitwasankar</a></h3>
 
 <table>
 	<tr>
