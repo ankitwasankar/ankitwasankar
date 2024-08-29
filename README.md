@@ -37,7 +37,7 @@
   <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-f54988?style=flat-square&logo=LeetCode&logoColor=white" />
   <img alt="Datadog" src="https://img.shields.io/badge/-DATADOG-f54988?style=flat-square&logo=datadog&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-f54988?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Powershell" src="https://img.shields.io/badge/-powershell-f54988?style=flat-square&logo=tmux&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-f54988?style=flat-square&logo=tmux&logoColor=white" />
 
   
 </p>
@@ -72,6 +72,21 @@
     </tr>
   </tbody>
 </table>
+
+<h3>My YouTube Channel <a href="https://www.youtube.com/@webencyclop">@webencyclop</a></h3>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-oafFAPgLao
+" target="_blank"><img src="http://img.youtube.com/vi/-oafFAPgLao/0.jpg" 
+alt="How Hashmap works in Java" width="200" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CpVALR9HeTE
+" target="_blank"><img src="http://img.youtube.com/vi/CpVALR9HeTE/0.jpg" 
+alt="How Hashmap works in Java" width="200" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TXV0_JhP8pY
+" target="_blank"><img src="http://img.youtube.com/vi/TXV0_JhP8pY/0.jpg" 
+alt="How Hashmap works in Java" width="200" /></a>
+
 <h3>My latest posts</h3>
 
 <table>
